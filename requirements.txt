@@ -1,0 +1,11 @@
+streamlit
+opencv-python
+numpy
+keras
+pillow
+sounddevice
+librosa
+tensorflow
+pyttsx3
+SpeechRecognition
+google-generativeai

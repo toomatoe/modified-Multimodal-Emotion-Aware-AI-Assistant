@@ -1,0 +1,3 @@
+Audio Dataset - https://www.kaggle.com/datasets/ejlok1/toronto-emotional-speech-set-tess
+
+Face Dataset - https://www.kaggle.com/datasets/msambare/fer2013
